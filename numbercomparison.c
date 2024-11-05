@@ -1,6 +1,6 @@
-//Escreva um programa que lê um número inteiro do teclado e imprime ”SIM” se o
-//número for par e maior do que 10, ou for
-//ímpar e menor do que 50. Caso contrário o programa deve imprimir ”NAO”.
+//Write a program that reads an integer from the keyboard and prints “YES” if the number is
+//even and greater than 10, or if it is
+//odd and less than 50. Otherwise the program should print “NO”.
 
 
 #include<stdio.h>
