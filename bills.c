@@ -1,4 +1,4 @@
-
+//exercise: transform an integer value of R$ (Reais) into the minimum number of bills for that value
 #include <stdio.h> 
 int main() {
  
