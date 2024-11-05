@@ -1,3 +1,5 @@
+//exercise: factorial of a random number
+
 #include<stdio.h>
 int main (){
     int i,n,acu;
