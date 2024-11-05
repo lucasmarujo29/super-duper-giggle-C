@@ -1,3 +1,5 @@
+//exercise: make a restaurant menu for a menu of four options chosen by me
+
 #include<stdio.h>
 int main(){
 int b;
