@@ -1,3 +1,5 @@
+//Exercise: Read the starting time, starting minute, ending time and ending minute of a game. Then calculate the duration of the game.
+
 #include <stdio.h>
  
 int main() {
