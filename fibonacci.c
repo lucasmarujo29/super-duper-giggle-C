@@ -1,5 +1,4 @@
-//programa que seja capaz de impirmir os primeiros "n" números da série de fibonacci
-//MEU JEITO
+//exercise: fibonacci for n numbers
 #include <stdio.h>
 int main(){
     int contadora,n,termonovo,termovelho,auxiliar;
