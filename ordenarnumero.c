@@ -1,4 +1,4 @@
-
+//exercise: order three numbers without using the while command or anny kind of loop
 #include<stdio.h>
 int main(void) {
     int a, b, c;
