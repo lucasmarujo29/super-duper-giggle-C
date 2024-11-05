@@ -1,4 +1,4 @@
-//exercico distancia dois pontos beecrowd
+//exercise: calculate the distance between two points given their coordinates on a Cartesian plane
 
 #include <stdio.h>
 #include <math.h>
