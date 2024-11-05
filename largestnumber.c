@@ -1,5 +1,5 @@
-//Escreva um programa lê três números e
-//imprime o maior deles
+//Write a program that reads three numbers and
+//prints the largest one
 
 
 #include<stdio.h>
