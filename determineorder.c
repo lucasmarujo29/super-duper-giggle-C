@@ -1,7 +1,5 @@
 /*
-Considere o programa para determinar se uma sequência de n números digitados
-pelo usuário está ordenado ou não.
-Refaça o programa usando uma variável contadora ao invés de indicadora
+Exercise: Consider the program to determine whether a sequence of n numbers entered by the user is ordered or not. Make the program using a counter variable instead of an indicator
 */
 #include <stdio.h>
 int main(){
