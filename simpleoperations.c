@@ -1,4 +1,4 @@
-/*Crie um programa que lê dois números double e que computa e imprime a soma, a diferença, a multiplicação e divisão dos dois números. */
+/*Exercise: Create a program that reads two double numbers, computes and prints the sum, difference, multiplication and division of the two numbers. */
 
 #include <stdio.h>
  
