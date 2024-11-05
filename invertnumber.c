@@ -1,3 +1,5 @@
+//exercise: invert a 4-digit number
+
 #include<stdio.h>
 int main(){
     int x, inverso, unidades, dezenas, centenas, uMilhar;
