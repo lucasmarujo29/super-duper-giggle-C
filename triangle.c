@@ -1,4 +1,4 @@
-
+//exercise: program that checks the type of triangle by its sides
 #include <stdio.h>
 #include <math.h>
 
