@@ -1,3 +1,5 @@
+//exercise: check if a number is prime
+
 #include<stdio.h>
 int main (){
     int aux,n,contadora;
