@@ -1,3 +1,5 @@
+//exercise: inform the customer of the status of the DDD provided
+
 #include <stdio.h>
 
  
